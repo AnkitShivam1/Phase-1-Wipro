@@ -9,7 +9,7 @@ public class MenuOptions {
         System.out.println("*                                                       *");
         System.out.println("*******************");
         System.out.println("Developer Details :\n");
-        System.out.println("1) Name          - Ankit Shivam");
+        System.out.println("1) Name          - Ankit ");
         System.out.println("2) Designation   - Developer");
         System.out.println("3) Company       - Wipro pvt. Ltd\n");
         System.out.println("             Greetings      ");
